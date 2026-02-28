@@ -8,7 +8,7 @@ LZAV is a fast general-purpose in-memory data compression algorithm based on now
 | Name | Description |
 | ------ | ------ |
 | b=<block_size> | Size of compression block (default 4mb) |
-| mode=<mode> | Compression mode [default, high] |
+| mode=\<mode> | Compression mode [default, high] |
 
 ### Usage:
 ```bash
