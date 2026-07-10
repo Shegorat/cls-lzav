@@ -1,6 +1,6 @@
 # cls-lzav - FreeArc compression filter. 
 cls-lzav is implementation of LZAV algorithm as FreeArc compression filter. 
-This filter is based on LZAV v.5.8 sources https://github.com/avaneev/lzav
+This filter is based on LZAV v.5.11 sources https://github.com/avaneev/lzav
 
 LZAV is a fast general-purpose in-memory data compression algorithm based on now-classic LZ77 lossless data compression method. LZAV holds a good position on the Pareto landscape of factors, among many similar in-memory (non-streaming) compression algorithms.
 
